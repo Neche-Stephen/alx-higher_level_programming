@@ -1,10 +1,11 @@
 #!/usr/bin/python3
 """
-	Sample Module
+Sample Module
 """
 
+
 class Square:
-	"""
-		Sample example of a python class
-	"""
-	pass
+    """
+    Sample example of a python class
+    """
+    pass
